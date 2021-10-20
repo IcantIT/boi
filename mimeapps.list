@@ -1,0 +1,17 @@
+[Added Associations]
+x-scheme-handler/magnet=torrent.desktop;
+application/x.bittorrent=torrent.desktop;
+
+[Default Applications]
+video/x-matroska=smplayer.desktop;
+video/mp4=smpalyer.desktop;
+image/gif=mpvgif.desktop
+image/png=sxiv.desktop;
+image/jpeg=sxiv.desktop;
+text/html=qutebrowser.desktop;
+text/xml=qutebrowser.desktop;
+x-scheme-handler/http=qutebrowser.desktop;
+x-scheme-handler/https=qutebrowser.desktop;
+x-scheme-handler/ftp=qutebrowser.desktop;
+application/json=editor.desktop
+application/pdf=org.pwmt.zathura.desktop;

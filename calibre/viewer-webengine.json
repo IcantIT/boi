@@ -1,0 +1,50 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAIAAAAGgAAB3cAAAQvAAAACAAAABoAAAd3AAAELwAAAAAAAAAAB4AAAAAIAAAAGgAAB3cAAAQv"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACAAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOwA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAAHcAAABBYAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 19,
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "sepia-dark",
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Rifujin na Magonote"
+        ],
+        "key": "/home/yz/Documents/Books/Calibre/Rifujin na Magonote/Mushoku Tensei_ Jobless Reincarnation Vol. 11 (269)/Mushoku Tensei_ Jobless Reincarnation Vol. - Rifujin na Magonote.epub",
+        "pathtoebook": "/home/yz/Documents/Books/Calibre/Rifujin na Magonote/Mushoku Tensei_ Jobless Reincarnation Vol. 11 (269)/Mushoku Tensei_ Jobless Reincarnation Vol. - Rifujin na Magonote.epub",
+        "timestamp": "2021-10-08T17:13:18.801Z",
+        "title": "Mushoku Tensei: Jobless Reincarnation Vol. 11"
+      },
+      {
+        "authors": [
+          "Fujino Omori"
+        ],
+        "key": "/home/yz/Documents/Books/Calibre/Fujino Omori/Is It Wrong to Try to Pick Up Girls in a Dungeon - Volume 01 (2)/Is It Wrong to Try to Pick Up Girls in a D - Fujino Omori.pdf",
+        "pathtoebook": "/home/yz/Documents/Books/Calibre/Fujino Omori/Is It Wrong to Try to Pick Up Girls in a Dungeon - Volume 01 (2)/Is It Wrong to Try to Pick Up Girls in a D - Fujino Omori.pdf",
+        "timestamp": "2021-09-29T12:09:22.685Z",
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon - Volume 01"
+      }
+    ],
+    "user_color_schemes": {
+      "*gray": {
+        "background": "#000000",
+        "foreground": "#a8a8a8",
+        "name": "gray"
+      }
+    }
+  }
+}

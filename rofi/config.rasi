@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,combi";
+ theme: "android_notification";
+ font: "Dejavuu Sans Mono 12";
+ combi-modi: "drun,window";
+ }

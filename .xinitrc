@@ -1,0 +1,5 @@
+mpd &
+
+xcompmgr &
+
+exec awesome

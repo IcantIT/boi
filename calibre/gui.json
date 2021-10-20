@@ -1,0 +1,198 @@
+{
+  "Plugin Updater plugin:plugin updater dialog": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAOuAAAAEgAAB3cAAAIWAAADrwAAABMAAAd2AAACFQAAAAAAAAAAB4AAAAOvAAAAEwAAB3YAAAIV"
+  },
+  "action-layout-toolbar": [
+    "View",
+    "Add Books",
+    "Edit Metadata",
+    "Remove Books",
+    "Connect Share",
+    "Preferences"
+  ],
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA+wAAAWgAAAEZAf////8BAAAAAQA="
+  },
+  "book_details_splitter_horizontal_state": [
+    false,
+    291
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "bulk-mde-casing-algorithm": "title_case",
+  "bulk_metadata_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAjAAAAGgAAB2IAAAQsAAAAJgAAAB0AAAdfAAAEKQAAAAAAAAAAB4AAAAAmAAAAHQAAB18AAAQp"
+  },
+  "bulk_metadata_window_tab": 1,
+  "choose-icon-theme-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAP6AAAAEgAAB38AAAQAAAAD+wAAABMAAAd+AAAD/wAAAAAAAAAAB4AAAAP7AAAAEwAAB34AAAP/"
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    0
+  ],
+  "cover_grid_color": [
+    80,
+    80,
+    80
+  ],
+  "cover_grid_height": 11.1,
+  "cover_grid_spacing": 0.1,
+  "cover_grid_texture": null,
+  "cover_grid_width": 7.0,
+  "custcol-prefs-table-geometry": [
+    116,
+    103,
+    395,
+    89
+  ],
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "default_author_link": null,
+  "duplicates-question-dialog-geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAACPgAAAiMAAAO+AAAAAwAAAkEAAAIgAAADuwAAAAAAAAAAB4AAAAADAAACQQAAAiAAAAO7"
+  },
+  "emblem_size": 30,
+  "font": [
+    "DejaVu Sans",
+    10,
+    50,
+    false
+  ],
+  "font_stretch": 0,
+  "gpm_template_editor_font": "DejaVu Sans",
+  "grid view visible": true,
+  "library_usage_stats": {
+    "/home/yz/Documents/Books/Calibre": 73
+  },
+  "metasingle_window_geometry3": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAAEwAABzsAAAQaAAAAAQAAABQAAAc6AAAEGQAAAAAAAAAAB4AAAAABAAAAFAAABzoAAAQZ"
+  },
+  "preferences dialog geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAHnAAAAowAABY4AAAN4AAAB6gAAAKYAAAWLAAADdQAAAAAAAAAAB4AAAAHqAAAApgAABYsAAAN1"
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "quickview_dialog_books_table_widths": [
+    189,
+    189,
+    189
+  ],
+  "quickview_dialog_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAI1AAABUQAABTYAAAKoAAACNgAAAVIAAAU1AAACpwAAAAAAAAAAB4AAAAI2AAABUgAABTUAAAKn"
+  },
+  "search bar visible": false,
+  "show_emblems": false,
+  "tag browser search box visible": false,
+  "tag_browser_hide_empty_categories": true,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    210
+  ]
+}

@@ -1,0 +1,88 @@
+sw_volume: 100
+audio_device_state:1:ALSA sound card
+audio_device_state:1:my_fifo
+state: stop
+current: 37
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:E ve/SMILE/Baumkuchen End - E ve.m4a
+1:E ve/SMILE/Dark Night - E ve.m4a
+2:E ve/SMILE/Heart Forecast - E ve.m4a
+3:E ve/SMILE/LEO - E ve.m4a
+4:E ve/SMILE/raison d'etre - E ve.m4a
+5:E ve/SMILE/Snow - E ve.m4a
+6:E ve/Otogi/Ambivalent - E ve.m4a
+7:E ve/Otogi/Last Dance - E ve.m4a
+8:E ve/Otogi/Outsider - E ve.m4a
+9:E ve/Otogi/Tokyo Ghetto - E ve.m4a
+10:E ve/Otogi/We're Still Underground - E ve.m4a
+11:E ve/OFFICAIL NUMBER/Demon Dance Tokyo - E ve.m4a
+12:E ve/OFFICAIL NUMBER/Planet Loop - E ve.m4a
+13:E ve/OFFICAIL NUMBER/Sister - E ve.m4a
+14:E ve/Dreams of Life and Death/A Hymn to the Blues - E ve.m4a
+15:E ve/Dreams of Life and Death/Dramaturgy (Live) - E ve.m4a
+16:E ve/Dreams of Life and Death/How To Devour Life - E ve.m4a
+17:E ve/Dreams of Life and Death/Living Idly and Dying as if Dreaming - E ve.m4a
+18:E ve/Dreams of Life and Death/Night is Faint - E ve.m4a
+19:E ve/Cover/Airhead (cover) - E ve.m4a
+20:E ve/Cover/Donut Hole (cover) - E ve.m4a
+21:E ve/Cover/Mabel (cover) - E ve.m4a
+22:E ve/Cover/Planet of the Sands (cover) - E ve.m4a
+23:E ve/Cover/Solar System Disco (cover) - E ve.m4a
+24:E ve/Bunka/As You Like It - E ve.m4a
+25:E ve/Bunka/Dramaturgy - E ve.m4a
+26:E ve/Bunka/Literary Nonsense - E ve.m4a
+27:E ve/Bunka/The Secret About That Girl - E ve.m4a
+28:E ve/Blue/01 - Myojo Galactica.m4a
+29:E ve/Blue/02 - Nonsence philosophy.m4a
+30:E ve/Blue/03 - Chocolate town.m4a
+31:E ve/Blue/04 - Dr.m4a
+32:E ve/Blue/05 - tig-hug.m4a
+33:E ve/Blue/06 - Fake.m4a
+34:E ve/Blue/07 - Hakushi no haru.m4a
+35:inabakumori/Harsh Words - inabakumori.m4a
+36:inabakumori/Lag Train - inabakumori.m4a
+37:inabakumori/Lost Umbrella - inabakumori.m4a
+38:inabakumori/Rainy Boots - inabakumori.m4a
+39:Anime/99.9 - Mob Psycho.m4a
+40:Anime/Clattanoia - Overlord.m4a
+41:Anime/DADDY! DADDY! DO! - Kaguya Sama.m4a
+42:Anime/Hello Sleepwalkers - Noragami Aragoto.m4a
+43:Anime/Hey Kids!! - Noragami Aragoto.m4a
+44:Anime/Jingo Jungle - Youjo Senki.m4a
+45:Anime/Koi no Uta - Tonikaku Kawaii.m4a
+46:Anime/Long Shot - ReZero.m4a
+47:Anime/Los! Los! Los! - Youjo Senki.m4a
+48:Anime/Lost in Paradise - Jujutsu Kaisen.m4a
+49:Anime/Paradisus-Paradoxum - ReZero.m4a
+50:Anime/Pre Parade - Toradora!.m4a
+51:Anime/Redo - ReZero.m4a
+52:Anime/This Game - No Game No Life.m4a
+53:Anime/Tit For Tat - Cautious Hero.m4a
+54:Anime/Unravel - Tokyo Ghoul.m4a
+55:Anime/Voracity - Overlord.m4a
+56:Other/Bad Apple!! - Touhou.m4a
+57:Other/Dancing all night - android52.m4a
+58:Other/Instant Heaven - Nanawo Akari.m4a
+59:Other/Night of Nights - COOL&CREATE_BeatMARIO.m4a
+60:Other/Snail House - Moe Shop.m4a
+61:Other/Study Me - ZUTOMAYO.m4a
+62:Other/WWW - Moe Shop.m4a
+63:Other/YELLOW - Yoh Kamiyama.m4a
+64:Vocaloid/Childish War - Kradness.m4a
+65:Vocaloid/Chururira Chururira Daddadda! - KurageP.m4a
+66:Vocaloid/Goodbye Sengen - FloweR.m4a
+67:Vocaloid/LUVORATORRRRRY! - Reol.m4a
+68:Vocaloid/Poker Face - Gumi.m4a
+69:Vocaloid/This Fucked-Up Wonderful World Exists For Me - Miku Hatsune.m4a
+70:Vocaloid/Worlds End DanceHall - wowaka.m4a
+71:PSYQUI/Hysteric Night Girl - android52.m4a
+72:Anime-English/AmaLee/Long Shot [eng] - AmaLee.m4a
+73:Anime-English/Sam Luff/A Strange Time [eng] - Sam Luff.m4a
+playlist_end

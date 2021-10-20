@@ -1,0 +1,89 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=charset)(8B=boxFlags)(8C=hierDelim)(8D=onlineName)(8E=aclFlags)
+  (8F=serverTotal)(90=serverUnseen)(91=serverRecent)(92=indexingPriority)
+  (93=folderName)(94=applyIncomingFilters.empty)(95=applyIncomingFilters)
+  (96=MRUTime)(97=nextUID)(98=lastSyncTimeInSec)
+  (99=dobayes.mailnews@mozilla.org#junk.empty)
+  (9A=dobayes.mailnews@mozilla.org#junk)(9B=LastPurgeTime)
+  (9C=useServerRetention)(80=ns:msg:db:row:scope:folders:all)
+  (81=ns:msg:db:table:kind:folders)(82=key)(83=flags)(84=totalMsgs)
+  (85=totalUnreadMsgs)(86=pendingUnreadMsgs)(87=pendingMsgs)
+  (88=expungedBytes)(89=folderSize)>
+
+<(80
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/IN\
+BOX.msf)(CE=18083014)(81=0)(D9=1b260)(D7=502e)(83=ISO-8859-1)(C6=204040)
+  (9E=2f)(85=INBOX)(CC=1)(CA=1634216548)(D4=9)(87
+    =/home/yz/.thunderbird/7drepw7p.default-default/Mail/Local Folders/Trash.m\
+sf)(88=104)(82=ffffffffffffffff)(89=Trash)(8A
+    =/home/yz/.thunderbird/7drepw7p.default-default/Mail/Local Folders/Unsent \
+Messages.msf)(8B=804)(8D=Outbox)(8E
+    =/home/yz/.thunderbird/7drepw7p.default-default/Mail/Local Folders)
+  (8F=1c)(90=ffffffff)(91=)(92=Local Folders)(93
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/Dr\
+afts.msf)(84=5e)(94=Drafts)(95
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/Te\
+mplates.msf)(C4=400000)(96=Templates)(97
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/Se\
+nt.msf)(98=Sent)(9A
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].msf)(9C=9082014)(9D=60048)(9B=[Gmail])(9F
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].sbd/All Mail.msf)(A1=8086014)(A2=248040)(A3=[Gmail]/All Mail)
+  (A4
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].sbd/Drafts.msf)(A6=8082414)(A7=240840)(A8=[Gmail]/Drafts)(A9
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].sbd/Important.msf)(AB=8082014)(AC=240040)(AD=[Gmail]/Important)
+  (AE
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].sbd/Sent Mail.msf)(B1=8082214)(B2=242040)(B3=[Gmail]/Sent Mail)
+  (B0=60)(B4
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].sbd/Spam.msf)(B7=40082014)(B8=241040)(B9=[Gmail]/Spam)(B6=-1)
+  (BA
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].sbd/Starred.msf)(BC=[Gmail]/Starred)(BD
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/[G\
+mail].sbd/Trash.msf)(CD=10082114)(D8=6)(C0=250040)(C1=[Gmail]/Trash)
+  (C2
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com/Ar\
+chives.msf)(C3=Archives)(DA
+    =/home/yz/.thunderbird/7drepw7p.default-default/ImapMail/imap.gmail.com)>
+{1:^80 {(k^81:c)(s=9)} 
+  [1(^82^80)(^83^CE)(^84=0)(^85=0)(^86=0)(^87=0)(^88^D9)(^89^D7)(^8A^83)
+    (^8B^C6)(^8C=2f)(^8D^85)(^8E=0)(^8F=1)(^90=0)(^91=0)(^96^CA)(^97=9)
+    (^98=0)(^9C=1)]
+  [2(^82^87)(^83^88)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^93^89)(^9C=1)]
+  [3(^82^8A)(^83^8B)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^93^8D)(^9C=1)]
+  [4(^82^8E)(^83=1c)(^84^90)(^85^90)(^86=0)(^87=0)(^88=0)(^89^82)(^8A=)
+    (^93^92)]
+  [5(^82^93)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^94)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [6(^82^95)(^83^C4)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^96)(^8E=0)(^8F=0)(^90=0)(^91=0)(^98=0)]
+  [7(^82^97)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^98)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [8(^82^9A)(^83^9C)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^9D)(^8C=2f)(^8D^9B)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9C=1)]
+  [9(^82^9F)(^83^A1)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^A2)(^8C=2f)(^8D^A3)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9C=1)]
+  [A(^82^A4)(^83^A6)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^A7)(^8C=2f)(^8D^A8)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9C=1)]
+  [B(^82^A9)(^83^AB)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^AC)(^8C=2f)(^8D^AD)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9C=1)]
+  [C(^82^AE)(^83^B1)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^B2)(^8C=2f)(^8D^B3)(^8E=0)(^8F=0)(^90=0)(^91=0)(^92=60)(^9C=1)]
+  [D(^82^B4)(^83^B7)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^B8)(^8C=2f)(^8D^B9)(^8E=0)(^8F=0)(^90=0)(^91=0)(^92=-1)(^9C=1)]
+  [E(^82^BA)(^83^AB)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^AC)(^8C=2f)(^8D^BC)(^8E=0)(^8F=0)(^90=0)(^91=0)(^9C=1)]
+  [F(^82^BD)(^83^CD)(^84=6)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B^C0)(^8C=2f)(^8D^C1)(^8E=0)(^8F=0)(^90=0)(^91=0)(^92=-1)(^9C=1)]
+  [10(^82^C2)(^83=0)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^82)(^8A^83)
+    (^8B=0)(^8C=5e)(^8D^C3)(^8E=0)(^8F=0)(^90=0)(^91=0)]
+  [11(^82^DA)(^83=0)(^84^90)(^85^90)(^86=0)(^87=0)(^88=0)(^89^82)(^8A=)
+    (^8B=0)(^8C=5e)(^8D=)(^8E=0)(^8F=0)(^90=0)(^91=0)]}

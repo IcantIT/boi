@@ -1,0 +1,24 @@
+{
+  "add books dialog dir": "/home/yz/Documents/Books/Light novels/Isekai/jobless reincarnation/LN",
+  "database location dialog": "/home/yz/Documents/Books/Calibre",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "5.29",
+      "5.28"
+    ]
+  },
+  "s_r_search_mode": 0,
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}
